@@ -32,4 +32,5 @@ class Slot extends Model
     {
         return Carbon::createFromFormat('Y,m,d,H,m', $time)->timestamp;
     }
+    
 }
