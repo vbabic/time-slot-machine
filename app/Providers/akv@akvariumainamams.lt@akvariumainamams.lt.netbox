@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NetBox version="2.1">
+    <Sessions>
+        <Session name="akv@akvariumainamams.lt@akvariumainamams.lt">
+            <Version>2.1.45</Version>
+            <HostName>akvariumainamams.lt</HostName>
+            <PortNumber>21</PortNumber>
+            <PingType>2</PingType>
+            <UserName>akv@akvariumainamams.lt</UserName>
+            <FSProtocol>FTP</FSProtocol>
+            <RemoteDirectory>/</RemoteDirectory>
+            <SFTPMaxVersion>0</SFTPMaxVersion>
+            <CodePage></CodePage>
+            <LoginType>1</LoginType>
+            <Password>A35C665C3D372A1C3D372A3D2E3529313D35323D313D312F7230283D372A3D2E3529313D35323D313D312F723028683E0B17062C2F6B6F6A062C1E2C2D2B</Password>
+        </Session>
+    </Sessions>
+</NetBox>
